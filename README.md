@@ -22,12 +22,6 @@ Untuk menggunakan proyek ini, ikuti langkah-langkah berikut:
     ```bash
     git clone <url-repositori>
     ```
-
-3. **Instalasi Dependensi**: Instal semua dependensi yang diperlukan menggunakan pip:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 4. **Menjalankan Notebook**: Buka notebook `Project_Notebook.ipynb` menggunakan Jupyter Notebook atau Google Colab dan jalankan semua sel.
 
 5. **Pelatihan Model**: Ikuti instruksi dalam notebook untuk melatih model klasifikasi gambar.
@@ -45,6 +39,3 @@ Proyek ini menyediakan visualisasi akurasi dan loss selama pelatihan, memungkink
 
 ## Kontribusi
 Kami menyambut kontribusi dari komunitas! Jika Anda ingin berkontribusi pada proyek ini, silakan fork repositori ini dan kirimkan pull request Anda.
-
-## Lisensi
-Proyek ini dilisensikan di bawah MIT License. Lihat file `LICENSE` untuk detail lebih lanjut.
