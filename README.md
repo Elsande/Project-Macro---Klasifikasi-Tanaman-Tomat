@@ -20,7 +20,7 @@ Untuk menggunakan proyek ini, ikuti langkah-langkah berikut:
 
 2. **Kloning Repositori**: Klon repositori ini menggunakan git:
     ```bash
-    git clone <url-repositori>
+    git clone <[url-repositori](https://github.com/dheepss123/Macro-Project-IL.git)>
     ```
 4. **Menjalankan Notebook**: Buka notebook `Project_Notebook.ipynb` menggunakan Jupyter Notebook atau Google Colab dan jalankan semua sel.
 
