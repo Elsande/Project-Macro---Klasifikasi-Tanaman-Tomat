@@ -42,7 +42,7 @@ if st.button("Predict"):
     # Display the prediction result
     st.success("Model is Predicting it's a {}".format(prediction))
 
-        # Display more details about the prediction
+    # Display more details about the prediction
     disease_info = {
         "Early_blight": "The plant is likely infected with Early Blight, which is a common fungal disease that affects tomatoes, potatoes, and other members of the Solanaceae family. It is characterized by the appearance of concentric rings of dead tissue on the leaves, stems, and fruits. To manage this disease, it is recommended to remove and destroy infected plants, rotate crops, and use resistant varieties.",
         "Healthy": "The plant appears to be healthy. Keep up the good work!",
