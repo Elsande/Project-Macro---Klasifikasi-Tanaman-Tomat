@@ -36,6 +36,15 @@ Proyek ini menggunakan beberapa callback TensorFlow untuk meningkatkan proses pe
 
 ## Visualisasi
 Proyek ini menyediakan visualisasi akurasi dan loss selama pelatihan, memungkinkan pengguna untuk memantau kinerja model secara real-time.
+## Visualisasi
+Proyek ini menyediakan visualisasi akurasi dan loss selama pelatihan, memungkinkan pengguna untuk memantau kinerja model secara real-time.
+
+### Akurasi Model saat Pelatihan
+![Akurasi Model saat Pelatihan](images/acuracy.png)
+
+### Loss Model saat Pelatihan
+![Loss Model saat Pelatihan](images/loss.png)
+
 
 ## Kontribusi
 Kami menyambut kontribusi dari komunitas! Jika Anda ingin berkontribusi pada proyek ini, silakan fork repositori ini dan kirimkan pull request Anda.
